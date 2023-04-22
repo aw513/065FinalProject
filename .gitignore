@@ -1,2 +1,5 @@
 *.bvh
+csv_data
+mocap_data
 data
+FullData_WithFingers
