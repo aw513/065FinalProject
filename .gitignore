@@ -1,4 +1,5 @@
 matrix_data.csv
+sparse_data.npz
 npz_take_data
 .DS_Store
 *.bvh
