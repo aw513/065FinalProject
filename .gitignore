@@ -1,5 +1,5 @@
 matrix_data.csv
-.ipynb_checkpoints
+npz_take_data
 .DS_Store
 *.bvh
 csv_data
